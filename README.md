@@ -14,7 +14,7 @@ It does two main things:
 
 ### Pre-built binaries
 
-Go to [Releases](https://github.com/orgs/ShareRing/old-address-utils/releases) page and download the latest version. Pre-built binaries support 3 platforms: Linux x64, Windows x64 and Mac arm64.
+Go to [Releases](https://github.com/ShareRing/old-address-utils/releases) page and download the latest version. Pre-built binaries support 3 platforms: Linux x64, Windows x64 and Mac arm64.
 
 **Linux**
 
