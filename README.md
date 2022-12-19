@@ -60,7 +60,7 @@ Make sure you have the following installed on your machine.
 
 ### Build binaries
 
-We use `pkg` to package the code into executable. Please refer to it's (documentation)[https://github.com/vercel/pkg] for the details
+We use `pkg` to package the code into executable. Please refer to it's [documentation](https://github.com/vercel/pkg) for the details
 
 Here's the basics:
 
