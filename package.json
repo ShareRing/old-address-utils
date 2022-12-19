@@ -1,0 +1,25 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.29.5",
+    "bignumber.js": "^9.1.1",
+    "inquirer": "^8.2.5",
+    "shr-client-ts": "github:sharering/shr-client-ts#develop",
+    "shr-keys": "github:sharering/shr-keys#pubkeyTm"
+  },
+  "scripts": {},
+  "name": "old-address-utils",
+  "version": "0.0.1",
+  "description": "Utility for those who have lost access to old Shareledger address with the same passphrase",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShareRing/old-address-utils.git"
+  },
+  "author": "Tan Do <tan.do@sharering.network>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ShareRing/old-address-utils/issues"
+  },
+  "homepage": "https://github.com/ShareRing/old-address-utils#readme"
+}
