@@ -4,8 +4,10 @@ const {assertIsDeliverTxSuccess, Secp256k1HdWallet, Secp256k1Wallet, Shareledger
 const {EnglishMnemonic} = require('@cosmjs/crypto');
 const {BigNumber} = require('bignumber.js');
 
-const rpcUrl = 'https://tencent.blockchain.testnet.sharetoken.io:26658';
-const explorerUrl = 'https://explorer.testnet.sharetoken.io';
+// const rpcUrl = 'https://tencent.blockchain.testnet.sharetoken.io:26658';
+// const explorerUrl = 'https://explorer.testnet.sharetoken.io';
+const rpcUrl = 'https://rpc.explorer.shareri.ng';
+const explorerUrl = 'https://explorer.shareri.ng';
 
 const greeting = () => {
   inquirer
