@@ -78,9 +78,9 @@ Here's the basics:
 
 ## Credits
 
-- (cosmos-sdk)[https://github.com/cosmos/cosmos-sdk]
-- (bignumber.js)[https://github.com/MikeMcl/bignumber.js]
-- (inquirer)[https://github.com/SBoudrias/Inquirer.js]
+- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js)
+- [inquirer](https://github.com/SBoudrias/Inquirer.js)
 
 
 ---
